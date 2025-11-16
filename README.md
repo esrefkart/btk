@@ -1,5 +1,5 @@
 <div id="user-content-toc" align="center">
-  <img src="https://raw.githubusercontent.com/esrefkart/esrefkart.com.tr/main/src/assets/logo.png" alt="Eşref Kart Banner" style="width: 100%; max-width: 800px;"/>
+  <img src="https://pardus.org.tr/wp-content/uploads/2023/02/esref-kart-e1677164943421.webp" alt="Eşref Kart Banner - Pardus" style="width: 100%; max-width: 800px; border-radius: 10px;"/>
 
   <h1 align="center">Selam, ben Eşref Kart 👋</h1>
   <h3 align="center">
@@ -63,16 +63,16 @@
       <p align="center">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-        <img src="https://img.shields.io/badge/Veri_Kurtarma-D9534F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+SGllcmFnbGlwaDwvdGl0bGU+PHBhdGggZD0iTTExLjU0IDguMjhjLjg3LS4yNyAxLjcxLS40MSAyLjQ4LS40MS43NSAwIDEuNDUuMTMgMi4xMS4zOS42Ni4yNiAxLjI0LjY0IDEuNzMgMS4xNS41LjUxLjg4IDEuMTMgMS4xMyAxLjg1LjI1LjcyLjM4IDEuNTQuMzggMi40NiAwIDEuMjQtLjM1IDIuMy0xLjA0IDMuMTctLjcgLjktMS42MSAxLjU4LTIuNzMgMi4wNi0uMy4xMy0uNi4yMy0uOS4zLS4zMS4wOC0uNjMuMTQtLjk0LjE4LS44Ny4xMy0xLjcuMDctMi40Mi0uMTZ2LTIuNjRjLjQ0LjI4LjkxLjQ4IDEuNDEuNi41LjEyIDEuMDEuMTggMS41Mi4xOC42NyAwIDEuMjYtLjE1IDEuNzgtLjQ1LjUyLS4zLjkyLS43MyAxLjIzLTEuMjcuMy0uNTUuNDUtMS4yLjQ1LTEuOTQgMC0uNzQtLjE4LTEuMzgtLjU1LTEuOTItLjM3LS41NS0uODctLjk3LTEuNDktMS4yNS0uNjItLjI3LTEuMzItLjQtMi4xLS40LS40MSAwLS44My4wNC0xLjI1LjEzdjguMThjLS44Ny4yNy0xLjcxLjQxLTIuNDguNDEtLjc1IDAtMS40NS0uMTMtMi4xMS0uMzktLjY2LS4yNi0xLjI0LS42NC0xLjczLTEuMTUtLjUtLjUxLS44OC0xLjEzLTEuMTMtMS44NS0uMjUtLjcyLS4zOC0xLjU0LS4zOC0yLjQ2IDAtMS4yNC4zNS0yLjMgMS4wNC0zLjE3LjctLjkgMS42MS0xLjU4IDIuNzMtMi4wNi4zLS4xMy42LS4yMy45LS4zLjMxLS4wOC42My0uMTQuOTQtLjE4Ljg3LS4xMyAxLjctLjA3IDIuNDIuMTZ2Mi42NGMtLjQ0LS4yOC0uOTEtLjQ4LTEuNDEtLjYtLjUtLjEyLTEuMDEtLjE4LTEuNTItLjE4LS42NyAwLTEuMjYuMTUtMS43OC40NS0uNTIuMy0uOTIuNzMtMS4yMyAxLjI3LS4zLjU1ExampleBBSV0Lm01IDEuMi0uNDUgMS45NCAwIC43NC4xOCAxLjM4LjU1IDEuOTIuMzcuNTUuODcuOTcgMS40OSAxLjI1LjYyLjI3IDEuMzIuNCAyLjEuNC40MSAwIC44My0uMDQgMS4yNS0uMTNWOC4yOFoiLz48L3N2Zz4=&logoColor=white" alt="Data Recovery">
+        <img src="https://img.shields.io/badge/Veri_Kurtarma-D9534F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+SGllcmFnbGlwaDwvdGl0bGU+PHBhdGggZD0iTTExLjU0IDguMjhjLjg3LS4yNyAxLjcxLS40MSAyLjQ4LS40MS43NSAwIDEuNDUuMTMgMi4xMS4zOS42Ni4yNiAxLjI0LjY0IDEuNzMgMS4xNS41LjUxLjg4IDEuMTMgMS4xMyAxLjg1LjI1LjcyLjM4IDEuNTQuMzggMi40NiAwIDEuMjQtLjM1IDIuMy0xLjA0IDMuMTctLjcgLjktMS42MSAxLjU4LTIuNzMgMi4wNi0uMy4xMy0uNi4yMy0uOS4zLS4zMS4wOC0uNjMuMTQtLjk0LjE4LS44Ny4xMy0xLjcuMDctMi40Mi0uMTZ2LTIuNjRjLjQ0LjI4LjkxLjQ4IDEuNDEuNi41LjEyIDEuMDEuMTggMS41Mi4xOC42NyAwIDEuMjYtLjE1IDEuNzgtLjQ1LjUyLS4zLjkyLS43MyAxLjIzLTEuMjcuMy0uNTUuNDUtMS4yLjQ1LTEuOTQg0tMDcuNzQtLjE4LTEuMzgtLjU1LTEuOTItLjM3LS41NS0uODctLjk3LTEuNDktMS4yNS0uNjItLjI3LTEuMzItLjQtMi4xLS40LS40MSAwLS44My4wNC0xLjI1LjEzdjguMThjLS44Ny4yNy0xLjcxLjQxLTIuNDguNDEtLjc1IDAtMS40NS0uMTMtMi4xMS0uMzktLjY2LS4yNi0xLjI0LS42NC0xLjczLTEuMTUtLjUtLjUxLS44OC0xLjEzLTEuMTMtMS44NS0uMjUtLjcyLS4zOC0xLjU0LS4zOC0yLjQ2IDAtMS4yNC4zNS0yLjMgMS4wNC0zLjE3LjctLjkgMS42MS0xLjU4IDIuNzMtMi4wNi4zLS4xMy42LS4yMy45LS4zLjMxLS4wOC42My0uMTQuOTQtLjE4Ljg3LS4xMyAxLjctLjA3IDIuNDIuMTZ2Mi42NGMtLjQ0LS4yOC0uOTEtLjQ4LTEuNDEtLjYtLjUtLjEyLTEuMDEtLjE4LTEuNTItLjE4LS42NyAwLTEuMjYuMTUtMS43OC40NS0uNTIuMy0uOTIuNzMtMS4yMyAxLjI3LS4zLjU1ExampleBBSV0Lm01IDEuMi0uNDUgMS45NCAwIC43NC4xOCAxLjM4LjU1IDEuOTIuMzcuNTUuODcuOTcgMS40OSAxLjI1LjYyLjI3IDEuMzIuNCAyLjEuNC40MSAwIC44My0wLjA0IDEuMjUtMC4xM1Y4LjI4WiIvPjwvc3ZnPg==&logoColor=white" alt="Data Recovery">
       </p>
     </td>
     <td align="center" valign="top" width="50%">
       <strong>Grafik & Video İşleme</strong>
       <p align="center">
-        <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
-        <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-EA77FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro">
         <img src="https://img.shields.io/badge/GIMP-657D59?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP">
         <img src="https://img.shields.io/badge/Kdenlive-8149A7?style=for-the-badge&logo=kdenlive&logoColor=white" alt="Kdenlive">
+        <img src="https://img.shields.io/badge/FFmpeg-007A00?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg">
+        <img src="https://img.shields.io/badge/Blender-E87300?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
       </p>
     </td>
   </tr>
