@@ -1,5 +1,5 @@
 <div id="user-content-toc" align="center">
-  <img src="https://raw.githubusercontent.com/esrefkart/btk/blob/main/src/watercolour_yeni__ankara_cd___haymana_ankara__t_rkiye.png)" alt="Eşref Kart Banner - Pardus" style="width: 100%; max-width: 800px; border-radius: 10px;"/>
+  <img src="https://raw.githubusercontent.com/esrefkart/btk/blob/main/src/watercolour_yeni__ankara_cd___haymana_ankara__t_rkiye.png" alt="Eşref Kart Banner - Pardus" style="width: 100%; max-width: 800px; border-radius: 10px;"/>
 
   <h1 align="center">Selam, ben Eşref Kart 👋</h1>
   <h3 align="center">
