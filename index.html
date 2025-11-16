@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eşref Kart | Kişisel Portfolyo</title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <style>
+        /* --- TEMEL AYARLAR --- */
+        :root {
+            --primary-color: #00bfa5; /* Ana Vurgu Rengi (Turkuaz) */
+            --dark-bg: #121212;      /* Ana Arka Plan (Çok Koyu Gri) */
+            --light-bg: #1e1e1e;     /* Kart Arka Planı (Koyu Gri) */
+            --text-color: #f0f0f0;   /* Ana Metin Rengi (Beyaza Yakın) */
+            --subtitle-color: #a0a0a0; /* Alt başlık rengi */
+        }
+
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: var(--dark-bg);
+            color: var(--text-color);
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            /* Sayfa açılışında yumuşak bir giriş efekti */
+            animation: fadeIn 1s ease-in-out;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+        }
+
+        /* --- SAYFA GİRİŞ ANİMASYONU --- */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* --- 1. BÖLÜM: ÜST PROFİL --- */
+        .profile-header {
+            text-align: center;
+            padding: 40px 0;
+        }
+
+        .profile-pic {
+            width: 160px;
+            height: 160px;
+            border-radius: 50%;
+            border: 5px solid var(--primary-color);
+            object-fit: cover; /* Resmin orantısını korur */
+            box-shadow: 0 0 20px rgba(0, 191, 165, 0.4);
+            transition: transform 0.3s ease;
+        }
+
+        .profile-pic:hover {
+            transform: scale(1.05); /* Resmin üzerine gelince hafifçe büyür */
+        }
+
+        .profile-header h1 {
+            font-size: 2.8em;
+            font-weight: 700;
+            margin: 20px 0 10px 0;
+            color: var(--text-color);
+        }
+
+        .profile-header .subtitle {
+            font-size: 1.3em;
+            font-weight: 300;
+            color: var(--primary-color);
+            margin: 0;
+        }
+
+        /* --- 2. BÖLÜM: İÇERİK KARTLARI --- */
+        .section {
+            background-color: var(--light-bg);
+            margin-top: 30px;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        .section h2 {
+            font-size: 1.8em;
+            font-weight: 700;
+            color: var(--primary-color);
+            border-bottom: 2px solid var(--primary-color);
+            padding-bottom: 10px;
+            margin-top: 0;
+            margin-bottom: 20px;
+        }
+
+        .section p {
+            font-size: 1.1em;
+            color: var(--subtitle-color);
+        }
+
+        /* --- Yetenekler Bölümü --- */
+        .skills-list {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+
+        .skill-item {
+            background-color: #333;
+            color: var(--text-color);
+            padding: 10px 18px;
+            border-radius: 25px; /* "hap" şeklinde */
+            font-size: 0.9em;
+            font-weight: 500;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+
+        .skill-item:hover {
+            background-color: var(--primary-color);
+            color: var(--dark-bg);
+            transform: translateY(-3px);
+        }
+
+        /* --- 3. BÖLÜM: SOSYAL MEDYA LİNKLERİ --- */
+        .social-links {
+            text-align: center;
+            padding: 30px 0;
+            margin-top: 20px;
+        }
+
+        .social-links a {
+            color: var(--subtitle-color);
+            font-size: 2.2em; /* İkonları büyüt */
+            margin: 0 18px;
+            transition: color 0.3s ease, transform 0.3s ease;
+        }
+
+        .social-links a:hover {
+            color: var(--primary-color);
+            transform: scale(1.2); /* Üzerine gelince ikonu büyüt */
+        }
+        
+        /* --- FOOTER --- */
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #777;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <header class="profile-header">
+            
+            <img src="https://via.placeholder.com/160" alt="Eşref Kart Profil Fotoğrafı" class="profile-pic">
+            
+            <h1>Eşref Kart</h1>
+            
+            <p class="subtitle">Dijital Stratejist & Yaratıcı Geliştirici</p>
+        </header>
+
+        <main>
+            <section class="section">
+                <h2>Hakkımda</h2>
+                <p>
+                    Merhaba! Ben Eşref. Teknolojiye ve dijital dünyanın sunduğu fırsatlara tutkuyla bağlıyım. 
+                    Problem çözmeyi, yenilikçi fikirleri hayata geçirmeyi ve estetik ile fonksiyonelliği 
+                    birleştiren projeler geliştirmeyi seviyorum.
+                </p>
+            </section>
+
+            <section class="section">
+                <h2>Uzmanlık Alanlarım</h2>
+                <ul class="skills-list">
+                    <li class="skill-item">Web Geliştirme</li>
+                    <li class="skill-item">UI/UX Tasarım</li>
+                    <li class="skill-item">SEO & Dijital Pazarlama</li>
+                    <li class="skill-item">React & JavaScript</li>
+                    <li class="skill-item">Proje Yönetimi</li>
+                    <li class="skill-item">İçerik Stratejisi</li>
+                </ul>
+            </section>
+
+            <section class="social-links">
+                <h2>Bana Ulaşın</h2>
+                
+                <a href="#" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                <a href="#" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+                <a href="#" target="_blank" title="X (Twitter)"><i class="fab fa-twitter"></i></a>
+                <a href="#" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
+                <a href="mailto:esref@mail.com" target="_blank" title="E-posta"><i class="fas fa-envelope"></i></a>
+            </section>
+        </main>
+
+        <footer>
+            <p>&copy; 2025 Eşref Kart. Tüm hakları saklıdır.</p>
+        </footer>
+
+    </div>
+
+</body>
+</html>
